@@ -1,0 +1,1532 @@
+fileFormatVersion: 2
+guid: e4b63e91a4c0e004894a5a8c59f8e8ea
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 12301
+    100002: 12303
+    100004: 12304
+    100006: 12305
+    100008: 12306
+    100010: 12307
+    100012: 12318
+    100014: 12319
+    100016: 12414
+    100018: 412401
+    100020: 412402
+    100022: 412404
+    100024: Arms008
+    100026: Arms009
+    100028: Arms010
+    100030: Arms011
+    100032: Arms012
+    100034: Arms013
+    100036: Arms014
+    100038: Arms07
+    100040: Axe
+    100042: Bolt Cutter001
+    100044: Box003
+    100046: Box005
+    100048: Box006
+    100050: Box007
+    100052: Cable clamps002
+    100054: Cable clamps003
+    100056: Cable clamps004
+    100058: Cable clamps005
+    100060: Cable clamps006
+    100062: Cable clamps007
+    100064: Cable clamps008
+    100066: Cable clamps009
+    100068: Cable clamps01
+    100070: Chain Tensioner Cover00
+    100072: Chain Tensioner Cover01
+    100074: Commanders Hatch002
+    100076: Commanders Periscope001
+    100078: Cooling Fan Cover00
+    100080: Cooling Fan Cover006
+    100082: Cooling Fan Cover007
+    100084: Cooling Fan Cover008
+    100086: Cooling Fan Cover02
+    100088: Cooling Fan Cover04
+    100090: Cooling Grid Armor00
+    100092: Cooling Grid Armor01
+    100094: Cooling Grid Armor02
+    100096: Cooling Grid Armor03
+    100098: Cooling Grid Cover00
+    100100: Cooling Grid Cover01
+    100102: Cooling Grid Cover02
+    100104: Cooling Grid Cover03
+    100106: Cylinder001
+    100108: Cylinder002
+    100110: Cylinder004
+    100112: Cylinder005
+    100114: Cylinder006
+    100116: Cylinder007
+    100118: Cylinder009
+    100120: Cylinder010
+    100122: Driver/Co Viewports008
+    100124: Driver/Co Viewports009
+    100126: Driver/Co Viewports010
+    100128: Driver/Co Viewports011
+    100130: Engine Access Doors00
+    100132: Engine Access Doors01
+    100134: Engine Access Doors02
+    100136: Engine Access port
+    100138: Engine Deck
+    100140: Engine Door Szop
+    100142: Equipment Left Side004
+    100144: Equipment Left Side010
+    100146: Equipment Left Side03
+    100148: Equipment mount left side00
+    100150: Equipment mount left side01
+    100152: Equipment mount left side028
+    100154: Equipment mount left side029
+    100156: Equipment mount left side03
+    100158: Equipment mount left side030
+    100160: Equipment mount left side031
+    100162: Equipment mount left side032
+    100164: Equipment mount left side033
+    100166: Equipment mount left side034
+    100168: Equipment mount left side035
+    100170: Equipment mount left side036
+    100172: Equipment mount left side037
+    100174: Equipment mount left side07
+    100176: Exhaust Pipes Armor Left Side001
+    100178: Exhaust Pipes Armor Right Side001
+    100180: Fan Cover001
+    100182: FIre Suppressor Exhausts00
+    100184: FIre Suppressor Exhausts01
+    100186: Fire Suppressor mounts00
+    100188: Fire Suppressor mounts01
+    100190: Fire Suppressor mounts02
+    100192: Fire Suppressor mounts03
+    100194: Hammer
+    100196: Headlight
+    100198: Headlight connector001
+    100200: Headlight Cover
+    100202: Headlight Hull mount001
+    100204: Headlight mount
+    100206: Headlight mount 1
+    100208: Headlight Rear mount
+    100210: 'Idler Wheel Left Side '
+    100212: Idler Wheel Left Side 001
+    100214: left side front wing
+    100216: left side front wing001
+    100218: Left Side Spring Suspension004
+    100220: Left Side Spring Suspension005
+    100222: Left Side Spring Suspension006
+    100224: Left Side Spring Suspension007
+    100226: Left Side Spring Suspension008
+    100228: Left Side Spring Suspension009
+    100230: Left Side Spring Suspension010
+    100232: Left Side Spring Suspension03
+    100234: Left Side Sprocket Drum Brakes
+    100236: Left Side Sprocket Drum Brakes001
+    100238: Lifting Hooks Engine Deck
+    100240: Line001
+    100242: maintenance hatches belly00
+    100244: maintenance hatches belly01
+    100246: maintenance hatches belly02
+    100248: maintenance hatches belly03
+    100250: maintenance hatches belly04
+    100252: maintenance hatches belly05
+    100254: maintenance hatches belly06
+    100256: maintenance hatches belly07
+    100258: maintenance hatches belly08
+    100260: maintenance hatches belly09
+    100262: maintenance hatches belly10
+    100264: maintenance hatches belly11
+    100266: maintenance hatches belly12
+    100268: maintenance hatches belly13
+    100270: Object
+    100272: Object336
+    100274: Object337
+    100276: Object338
+    100278: Object339
+    100280: Object340
+    100282: Object341
+    100284: Object342
+    100286: Object343
+    100288: Object344
+    100290: Object345
+    100292: Object346
+    100294: Object347
+    100296: Object348
+    100298: Object349
+    100300: Object350
+    100302: Object351
+    100304: Object352
+    100306: Object353
+    100308: Object354
+    100310: Object355
+    100312: Object356
+    100314: Object357
+    100316: Object358
+    100318: Object359
+    100320: Object360
+    100322: Object361
+    100324: Object362
+    100326: Object363
+    100328: Object364
+    100330: Object365
+    100332: Object366
+    100334: Object367
+    100336: Object368
+    100338: Object369
+    100340: Object370
+    100342: Object371
+    100344: Object372
+    100346: Object373
+    100348: Object374
+    100350: Object375
+    100352: Object376
+    100354: Object377
+    100356: Object378
+    100358: Object379
+    100360: Object380
+    100362: Object381
+    100364: Object382
+    100366: Plane295
+    100368: Plane297
+    100370: Plane299
+    100372: Plane300
+    100374: Plane301
+    100376: Plane302
+    100378: Plane303
+    100380: Plane304
+    100382: Plane313
+    100384: Plane316
+    100386: Plane317
+    100388: Plane318
+    100390: Plane319
+    100392: Plane320
+    100394: Plane321
+    100396: Plane322
+    100398: Plane323
+    100400: Plane324
+    100402: Plane325
+    100404: Plane326
+    100406: Plane327
+    100408: Plane328
+    100410: Plane329
+    100412: Plane330
+    100414: Plane331
+    100416: Plane332
+    100418: Plane333
+    100420: Plane334
+    100422: Plane335
+    100424: Plane336
+    100426: Plane337
+    100428: Rear Engine Acces Cover00
+    100430: Rear Engine Acces Cover01
+    100432: Rear Engine Acces Cover02
+    100434: Rear Engine Armor 001
+    100436: Rear Engine Armor 002
+    100438: Rear Mount
+    100440: Right Side Drive Sprocket
+    100442: Right Side Drive Sprocket001
+    100444: Right Side Turret Tracks002
+    100446: Right Side Turret Tracks003
+    100448: Right Side Turret Tracks005
+    100450: Right Side Turret Tracks006
+    100452: Right Side Turret Tracks008
+    100454: Right Side Turret Tracks01
+    100456: Roadwheels Left 00
+    100458: Roadwheels Left 012
+    100460: Roadwheels Left 013
+    100462: Roadwheels Left 014
+    100464: Roadwheels Left 015
+    100466: Roadwheels Left 016
+    100468: Roadwheels Left 017
+    100470: Roadwheels Left 018
+    100472: Roadwheels Left 019
+    100474: Roadwheels Left 020
+    100476: Roadwheels Left 021
+    100478: Roadwheels Left 022
+    100480: Roadwheels Left 023
+    100482: Roadwheels Left 024
+    100484: Roadwheels Left 025
+    100486: Roadwheels Left 026
+    100488: Roadwheels Left 027
+    100490: Roadwheels Left 028
+    100492: Roadwheels Left 029
+    100494: Roadwheels Left 030
+    100496: Roadwheels Left 031
+    100498: Roadwheels Left 032
+    100500: Roadwheels Left 033
+    100502: Roadwheels Left 08
+    100504: Shovel mounts 02
+    100506: Shovel mounts 03
+    100508: Shovel01
+    100510: Sphere001
+    100512: Sphere002
+    100514: Storage Box Rear
+    100516: Storage Box Rear001
+    100518: //RootNode
+    100520: Towing Hooks009
+    100522: Towing Hooks01
+    100524: Towing Hooks011
+    100526: Towing Hooks012
+    100528: Towing Hooks014
+    100530: Turret lifting hooks017
+    100532: Turret lifting hooks018
+    100534: Turret lifting hooks019
+    100536: Turret lifting hooks020
+    100538: Turret lifting hooks021
+    100540: Turret lifting hooks022
+    100542: Turret lifting hooks023
+    100544: Turret lifting hooks024
+    100546: Turret lifting hooks025
+    100548: Turret lifting hooks026
+    100550: Turret lifting hooks027
+    100552: Turret lifting hooks033
+    100554: Turret lifting hooks034
+    100556: Turret mounts005
+    100558: Turret mounts007
+    100560: Turret mounts008
+    100562: Turret mounts009
+    100564: Turret mounts010
+    100566: Turret mounts011
+    100568: Viewport Cover007
+    100570: Viewport Cover008
+    100572: Viewport Cover009
+    100574: Viewport Cover010
+    400000: 12301
+    400002: 12303
+    400004: 12304
+    400006: 12305
+    400008: 12306
+    400010: 12307
+    400012: 12318
+    400014: 12319
+    400016: 12414
+    400018: 412401
+    400020: 412402
+    400022: 412404
+    400024: Arms008
+    400026: Arms009
+    400028: Arms010
+    400030: Arms011
+    400032: Arms012
+    400034: Arms013
+    400036: Arms014
+    400038: Arms07
+    400040: Axe
+    400042: Bolt Cutter001
+    400044: Box003
+    400046: Box005
+    400048: Box006
+    400050: Box007
+    400052: Cable clamps002
+    400054: Cable clamps003
+    400056: Cable clamps004
+    400058: Cable clamps005
+    400060: Cable clamps006
+    400062: Cable clamps007
+    400064: Cable clamps008
+    400066: Cable clamps009
+    400068: Cable clamps01
+    400070: Chain Tensioner Cover00
+    400072: Chain Tensioner Cover01
+    400074: Commanders Hatch002
+    400076: Commanders Periscope001
+    400078: Cooling Fan Cover00
+    400080: Cooling Fan Cover006
+    400082: Cooling Fan Cover007
+    400084: Cooling Fan Cover008
+    400086: Cooling Fan Cover02
+    400088: Cooling Fan Cover04
+    400090: Cooling Grid Armor00
+    400092: Cooling Grid Armor01
+    400094: Cooling Grid Armor02
+    400096: Cooling Grid Armor03
+    400098: Cooling Grid Cover00
+    400100: Cooling Grid Cover01
+    400102: Cooling Grid Cover02
+    400104: Cooling Grid Cover03
+    400106: Cylinder001
+    400108: Cylinder002
+    400110: Cylinder004
+    400112: Cylinder005
+    400114: Cylinder006
+    400116: Cylinder007
+    400118: Cylinder009
+    400120: Cylinder010
+    400122: Driver/Co Viewports008
+    400124: Driver/Co Viewports009
+    400126: Driver/Co Viewports010
+    400128: Driver/Co Viewports011
+    400130: Engine Access Doors00
+    400132: Engine Access Doors01
+    400134: Engine Access Doors02
+    400136: Engine Access port
+    400138: Engine Deck
+    400140: Engine Door Szop
+    400142: Equipment Left Side004
+    400144: Equipment Left Side010
+    400146: Equipment Left Side03
+    400148: Equipment mount left side00
+    400150: Equipment mount left side01
+    400152: Equipment mount left side028
+    400154: Equipment mount left side029
+    400156: Equipment mount left side03
+    400158: Equipment mount left side030
+    400160: Equipment mount left side031
+    400162: Equipment mount left side032
+    400164: Equipment mount left side033
+    400166: Equipment mount left side034
+    400168: Equipment mount left side035
+    400170: Equipment mount left side036
+    400172: Equipment mount left side037
+    400174: Equipment mount left side07
+    400176: Exhaust Pipes Armor Left Side001
+    400178: Exhaust Pipes Armor Right Side001
+    400180: Fan Cover001
+    400182: FIre Suppressor Exhausts00
+    400184: FIre Suppressor Exhausts01
+    400186: Fire Suppressor mounts00
+    400188: Fire Suppressor mounts01
+    400190: Fire Suppressor mounts02
+    400192: Fire Suppressor mounts03
+    400194: Hammer
+    400196: Headlight
+    400198: Headlight connector001
+    400200: Headlight Cover
+    400202: Headlight Hull mount001
+    400204: Headlight mount
+    400206: Headlight mount 1
+    400208: Headlight Rear mount
+    400210: 'Idler Wheel Left Side '
+    400212: Idler Wheel Left Side 001
+    400214: left side front wing
+    400216: left side front wing001
+    400218: Left Side Spring Suspension004
+    400220: Left Side Spring Suspension005
+    400222: Left Side Spring Suspension006
+    400224: Left Side Spring Suspension007
+    400226: Left Side Spring Suspension008
+    400228: Left Side Spring Suspension009
+    400230: Left Side Spring Suspension010
+    400232: Left Side Spring Suspension03
+    400234: Left Side Sprocket Drum Brakes
+    400236: Left Side Sprocket Drum Brakes001
+    400238: Lifting Hooks Engine Deck
+    400240: Line001
+    400242: maintenance hatches belly00
+    400244: maintenance hatches belly01
+    400246: maintenance hatches belly02
+    400248: maintenance hatches belly03
+    400250: maintenance hatches belly04
+    400252: maintenance hatches belly05
+    400254: maintenance hatches belly06
+    400256: maintenance hatches belly07
+    400258: maintenance hatches belly08
+    400260: maintenance hatches belly09
+    400262: maintenance hatches belly10
+    400264: maintenance hatches belly11
+    400266: maintenance hatches belly12
+    400268: maintenance hatches belly13
+    400270: Object
+    400272: Object336
+    400274: Object337
+    400276: Object338
+    400278: Object339
+    400280: Object340
+    400282: Object341
+    400284: Object342
+    400286: Object343
+    400288: Object344
+    400290: Object345
+    400292: Object346
+    400294: Object347
+    400296: Object348
+    400298: Object349
+    400300: Object350
+    400302: Object351
+    400304: Object352
+    400306: Object353
+    400308: Object354
+    400310: Object355
+    400312: Object356
+    400314: Object357
+    400316: Object358
+    400318: Object359
+    400320: Object360
+    400322: Object361
+    400324: Object362
+    400326: Object363
+    400328: Object364
+    400330: Object365
+    400332: Object366
+    400334: Object367
+    400336: Object368
+    400338: Object369
+    400340: Object370
+    400342: Object371
+    400344: Object372
+    400346: Object373
+    400348: Object374
+    400350: Object375
+    400352: Object376
+    400354: Object377
+    400356: Object378
+    400358: Object379
+    400360: Object380
+    400362: Object381
+    400364: Object382
+    400366: Plane295
+    400368: Plane297
+    400370: Plane299
+    400372: Plane300
+    400374: Plane301
+    400376: Plane302
+    400378: Plane303
+    400380: Plane304
+    400382: Plane313
+    400384: Plane316
+    400386: Plane317
+    400388: Plane318
+    400390: Plane319
+    400392: Plane320
+    400394: Plane321
+    400396: Plane322
+    400398: Plane323
+    400400: Plane324
+    400402: Plane325
+    400404: Plane326
+    400406: Plane327
+    400408: Plane328
+    400410: Plane329
+    400412: Plane330
+    400414: Plane331
+    400416: Plane332
+    400418: Plane333
+    400420: Plane334
+    400422: Plane335
+    400424: Plane336
+    400426: Plane337
+    400428: Rear Engine Acces Cover00
+    400430: Rear Engine Acces Cover01
+    400432: Rear Engine Acces Cover02
+    400434: Rear Engine Armor 001
+    400436: Rear Engine Armor 002
+    400438: Rear Mount
+    400440: Right Side Drive Sprocket
+    400442: Right Side Drive Sprocket001
+    400444: Right Side Turret Tracks002
+    400446: Right Side Turret Tracks003
+    400448: Right Side Turret Tracks005
+    400450: Right Side Turret Tracks006
+    400452: Right Side Turret Tracks008
+    400454: Right Side Turret Tracks01
+    400456: Roadwheels Left 00
+    400458: Roadwheels Left 012
+    400460: Roadwheels Left 013
+    400462: Roadwheels Left 014
+    400464: Roadwheels Left 015
+    400466: Roadwheels Left 016
+    400468: Roadwheels Left 017
+    400470: Roadwheels Left 018
+    400472: Roadwheels Left 019
+    400474: Roadwheels Left 020
+    400476: Roadwheels Left 021
+    400478: Roadwheels Left 022
+    400480: Roadwheels Left 023
+    400482: Roadwheels Left 024
+    400484: Roadwheels Left 025
+    400486: Roadwheels Left 026
+    400488: Roadwheels Left 027
+    400490: Roadwheels Left 028
+    400492: Roadwheels Left 029
+    400494: Roadwheels Left 030
+    400496: Roadwheels Left 031
+    400498: Roadwheels Left 032
+    400500: Roadwheels Left 033
+    400502: Roadwheels Left 08
+    400504: Shovel mounts 02
+    400506: Shovel mounts 03
+    400508: Shovel01
+    400510: Sphere001
+    400512: Sphere002
+    400514: Storage Box Rear
+    400516: Storage Box Rear001
+    400518: //RootNode
+    400520: Towing Hooks009
+    400522: Towing Hooks01
+    400524: Towing Hooks011
+    400526: Towing Hooks012
+    400528: Towing Hooks014
+    400530: Turret lifting hooks017
+    400532: Turret lifting hooks018
+    400534: Turret lifting hooks019
+    400536: Turret lifting hooks020
+    400538: Turret lifting hooks021
+    400540: Turret lifting hooks022
+    400542: Turret lifting hooks023
+    400544: Turret lifting hooks024
+    400546: Turret lifting hooks025
+    400548: Turret lifting hooks026
+    400550: Turret lifting hooks027
+    400552: Turret lifting hooks033
+    400554: Turret lifting hooks034
+    400556: Turret mounts005
+    400558: Turret mounts007
+    400560: Turret mounts008
+    400562: Turret mounts009
+    400564: Turret mounts010
+    400566: Turret mounts011
+    400568: Viewport Cover007
+    400570: Viewport Cover008
+    400572: Viewport Cover009
+    400574: Viewport Cover010
+    2100000: Metall
+    2300000: 12301
+    2300002: 12303
+    2300004: 12304
+    2300006: 12305
+    2300008: 12306
+    2300010: 12307
+    2300012: 12318
+    2300014: 12319
+    2300016: 12414
+    2300018: 412401
+    2300020: 412402
+    2300022: 412404
+    2300024: Arms008
+    2300026: Arms009
+    2300028: Arms010
+    2300030: Arms011
+    2300032: Arms012
+    2300034: Arms013
+    2300036: Arms014
+    2300038: Arms07
+    2300040: Axe
+    2300042: Bolt Cutter001
+    2300044: Box003
+    2300046: Box005
+    2300048: Box006
+    2300050: Box007
+    2300052: Cable clamps002
+    2300054: Cable clamps003
+    2300056: Cable clamps004
+    2300058: Cable clamps005
+    2300060: Cable clamps006
+    2300062: Cable clamps007
+    2300064: Cable clamps008
+    2300066: Cable clamps009
+    2300068: Cable clamps01
+    2300070: Chain Tensioner Cover00
+    2300072: Chain Tensioner Cover01
+    2300074: Commanders Hatch002
+    2300076: Commanders Periscope001
+    2300078: Cooling Fan Cover00
+    2300080: Cooling Fan Cover006
+    2300082: Cooling Fan Cover007
+    2300084: Cooling Fan Cover008
+    2300086: Cooling Fan Cover02
+    2300088: Cooling Fan Cover04
+    2300090: Cooling Grid Armor00
+    2300092: Cooling Grid Armor01
+    2300094: Cooling Grid Armor02
+    2300096: Cooling Grid Armor03
+    2300098: Cooling Grid Cover00
+    2300100: Cooling Grid Cover01
+    2300102: Cooling Grid Cover02
+    2300104: Cooling Grid Cover03
+    2300106: Cylinder001
+    2300108: Cylinder002
+    2300110: Cylinder004
+    2300112: Cylinder005
+    2300114: Cylinder006
+    2300116: Cylinder007
+    2300118: Cylinder009
+    2300120: Cylinder010
+    2300122: Driver/Co Viewports008
+    2300124: Driver/Co Viewports009
+    2300126: Driver/Co Viewports010
+    2300128: Driver/Co Viewports011
+    2300130: Engine Access Doors00
+    2300132: Engine Access Doors01
+    2300134: Engine Access Doors02
+    2300136: Engine Access port
+    2300138: Engine Deck
+    2300140: Engine Door Szop
+    2300142: Equipment Left Side004
+    2300144: Equipment Left Side010
+    2300146: Equipment Left Side03
+    2300148: Equipment mount left side00
+    2300150: Equipment mount left side01
+    2300152: Equipment mount left side028
+    2300154: Equipment mount left side029
+    2300156: Equipment mount left side03
+    2300158: Equipment mount left side030
+    2300160: Equipment mount left side031
+    2300162: Equipment mount left side032
+    2300164: Equipment mount left side033
+    2300166: Equipment mount left side034
+    2300168: Equipment mount left side035
+    2300170: Equipment mount left side036
+    2300172: Equipment mount left side037
+    2300174: Equipment mount left side07
+    2300176: Exhaust Pipes Armor Left Side001
+    2300178: Exhaust Pipes Armor Right Side001
+    2300180: Fan Cover001
+    2300182: FIre Suppressor Exhausts00
+    2300184: FIre Suppressor Exhausts01
+    2300186: Fire Suppressor mounts00
+    2300188: Fire Suppressor mounts01
+    2300190: Fire Suppressor mounts02
+    2300192: Fire Suppressor mounts03
+    2300194: Hammer
+    2300196: Headlight
+    2300198: Headlight connector001
+    2300200: Headlight Cover
+    2300202: Headlight Hull mount001
+    2300204: Headlight mount
+    2300206: Headlight mount 1
+    2300208: Headlight Rear mount
+    2300210: 'Idler Wheel Left Side '
+    2300212: Idler Wheel Left Side 001
+    2300214: left side front wing
+    2300216: left side front wing001
+    2300218: Left Side Spring Suspension004
+    2300220: Left Side Spring Suspension005
+    2300222: Left Side Spring Suspension006
+    2300224: Left Side Spring Suspension007
+    2300226: Left Side Spring Suspension008
+    2300228: Left Side Spring Suspension009
+    2300230: Left Side Spring Suspension010
+    2300232: Left Side Spring Suspension03
+    2300234: Left Side Sprocket Drum Brakes
+    2300236: Left Side Sprocket Drum Brakes001
+    2300238: Lifting Hooks Engine Deck
+    2300240: Line001
+    2300242: maintenance hatches belly00
+    2300244: maintenance hatches belly01
+    2300246: maintenance hatches belly02
+    2300248: maintenance hatches belly03
+    2300250: maintenance hatches belly04
+    2300252: maintenance hatches belly05
+    2300254: maintenance hatches belly06
+    2300256: maintenance hatches belly07
+    2300258: maintenance hatches belly08
+    2300260: maintenance hatches belly09
+    2300262: maintenance hatches belly10
+    2300264: maintenance hatches belly11
+    2300266: maintenance hatches belly12
+    2300268: maintenance hatches belly13
+    2300270: Object
+    2300272: Object336
+    2300274: Object337
+    2300276: Object338
+    2300278: Object339
+    2300280: Object340
+    2300282: Object341
+    2300284: Object342
+    2300286: Object343
+    2300288: Object344
+    2300290: Object345
+    2300292: Object346
+    2300294: Object347
+    2300296: Object348
+    2300298: Object349
+    2300300: Object350
+    2300302: Object351
+    2300304: Object352
+    2300306: Object353
+    2300308: Object354
+    2300310: Object355
+    2300312: Object356
+    2300314: Object357
+    2300316: Object358
+    2300318: Object359
+    2300320: Object360
+    2300322: Object361
+    2300324: Object362
+    2300326: Object363
+    2300328: Object364
+    2300330: Object365
+    2300332: Object366
+    2300334: Object367
+    2300336: Object368
+    2300338: Object369
+    2300340: Object370
+    2300342: Object371
+    2300344: Object372
+    2300346: Object373
+    2300348: Object374
+    2300350: Object375
+    2300352: Object376
+    2300354: Object377
+    2300356: Object378
+    2300358: Object379
+    2300360: Object380
+    2300362: Object381
+    2300364: Object382
+    2300366: Plane295
+    2300368: Plane297
+    2300370: Plane299
+    2300372: Plane300
+    2300374: Plane301
+    2300376: Plane302
+    2300378: Plane303
+    2300380: Plane304
+    2300382: Plane313
+    2300384: Plane316
+    2300386: Plane317
+    2300388: Plane318
+    2300390: Plane319
+    2300392: Plane320
+    2300394: Plane321
+    2300396: Plane322
+    2300398: Plane323
+    2300400: Plane324
+    2300402: Plane325
+    2300404: Plane326
+    2300406: Plane327
+    2300408: Plane328
+    2300410: Plane329
+    2300412: Plane330
+    2300414: Plane331
+    2300416: Plane332
+    2300418: Plane333
+    2300420: Plane334
+    2300422: Plane335
+    2300424: Plane336
+    2300426: Plane337
+    2300428: Rear Engine Acces Cover00
+    2300430: Rear Engine Acces Cover01
+    2300432: Rear Engine Acces Cover02
+    2300434: Rear Engine Armor 001
+    2300436: Rear Engine Armor 002
+    2300438: Rear Mount
+    2300440: Right Side Drive Sprocket
+    2300442: Right Side Drive Sprocket001
+    2300444: Right Side Turret Tracks002
+    2300446: Right Side Turret Tracks003
+    2300448: Right Side Turret Tracks005
+    2300450: Right Side Turret Tracks006
+    2300452: Right Side Turret Tracks008
+    2300454: Right Side Turret Tracks01
+    2300456: Roadwheels Left 00
+    2300458: Roadwheels Left 012
+    2300460: Roadwheels Left 013
+    2300462: Roadwheels Left 014
+    2300464: Roadwheels Left 015
+    2300466: Roadwheels Left 016
+    2300468: Roadwheels Left 017
+    2300470: Roadwheels Left 018
+    2300472: Roadwheels Left 019
+    2300474: Roadwheels Left 020
+    2300476: Roadwheels Left 021
+    2300478: Roadwheels Left 022
+    2300480: Roadwheels Left 023
+    2300482: Roadwheels Left 024
+    2300484: Roadwheels Left 025
+    2300486: Roadwheels Left 026
+    2300488: Roadwheels Left 027
+    2300490: Roadwheels Left 028
+    2300492: Roadwheels Left 029
+    2300494: Roadwheels Left 030
+    2300496: Roadwheels Left 031
+    2300498: Roadwheels Left 032
+    2300500: Roadwheels Left 033
+    2300502: Roadwheels Left 08
+    2300504: Shovel mounts 02
+    2300506: Shovel mounts 03
+    2300508: Shovel01
+    2300510: Sphere001
+    2300512: Sphere002
+    2300514: Storage Box Rear
+    2300516: Storage Box Rear001
+    2300518: Towing Hooks009
+    2300520: Towing Hooks01
+    2300522: Towing Hooks011
+    2300524: Towing Hooks012
+    2300526: Towing Hooks014
+    2300528: Turret lifting hooks017
+    2300530: Turret lifting hooks018
+    2300532: Turret lifting hooks019
+    2300534: Turret lifting hooks020
+    2300536: Turret lifting hooks021
+    2300538: Turret lifting hooks022
+    2300540: Turret lifting hooks023
+    2300542: Turret lifting hooks024
+    2300544: Turret lifting hooks025
+    2300546: Turret lifting hooks026
+    2300548: Turret lifting hooks027
+    2300550: Turret lifting hooks033
+    2300552: Turret lifting hooks034
+    2300554: Turret mounts005
+    2300556: Turret mounts007
+    2300558: Turret mounts008
+    2300560: Turret mounts009
+    2300562: Turret mounts010
+    2300564: Turret mounts011
+    2300566: Viewport Cover007
+    2300568: Viewport Cover008
+    2300570: Viewport Cover009
+    2300572: Viewport Cover010
+    3300000: 12301
+    3300002: 12303
+    3300004: 12304
+    3300006: 12305
+    3300008: 12306
+    3300010: 12307
+    3300012: 12318
+    3300014: 12319
+    3300016: 12414
+    3300018: 412401
+    3300020: 412402
+    3300022: 412404
+    3300024: Arms008
+    3300026: Arms009
+    3300028: Arms010
+    3300030: Arms011
+    3300032: Arms012
+    3300034: Arms013
+    3300036: Arms014
+    3300038: Arms07
+    3300040: Axe
+    3300042: Bolt Cutter001
+    3300044: Box003
+    3300046: Box005
+    3300048: Box006
+    3300050: Box007
+    3300052: Cable clamps002
+    3300054: Cable clamps003
+    3300056: Cable clamps004
+    3300058: Cable clamps005
+    3300060: Cable clamps006
+    3300062: Cable clamps007
+    3300064: Cable clamps008
+    3300066: Cable clamps009
+    3300068: Cable clamps01
+    3300070: Chain Tensioner Cover00
+    3300072: Chain Tensioner Cover01
+    3300074: Commanders Hatch002
+    3300076: Commanders Periscope001
+    3300078: Cooling Fan Cover00
+    3300080: Cooling Fan Cover006
+    3300082: Cooling Fan Cover007
+    3300084: Cooling Fan Cover008
+    3300086: Cooling Fan Cover02
+    3300088: Cooling Fan Cover04
+    3300090: Cooling Grid Armor00
+    3300092: Cooling Grid Armor01
+    3300094: Cooling Grid Armor02
+    3300096: Cooling Grid Armor03
+    3300098: Cooling Grid Cover00
+    3300100: Cooling Grid Cover01
+    3300102: Cooling Grid Cover02
+    3300104: Cooling Grid Cover03
+    3300106: Cylinder001
+    3300108: Cylinder002
+    3300110: Cylinder004
+    3300112: Cylinder005
+    3300114: Cylinder006
+    3300116: Cylinder007
+    3300118: Cylinder009
+    3300120: Cylinder010
+    3300122: Driver/Co Viewports008
+    3300124: Driver/Co Viewports009
+    3300126: Driver/Co Viewports010
+    3300128: Driver/Co Viewports011
+    3300130: Engine Access Doors00
+    3300132: Engine Access Doors01
+    3300134: Engine Access Doors02
+    3300136: Engine Access port
+    3300138: Engine Deck
+    3300140: Engine Door Szop
+    3300142: Equipment Left Side004
+    3300144: Equipment Left Side010
+    3300146: Equipment Left Side03
+    3300148: Equipment mount left side00
+    3300150: Equipment mount left side01
+    3300152: Equipment mount left side028
+    3300154: Equipment mount left side029
+    3300156: Equipment mount left side03
+    3300158: Equipment mount left side030
+    3300160: Equipment mount left side031
+    3300162: Equipment mount left side032
+    3300164: Equipment mount left side033
+    3300166: Equipment mount left side034
+    3300168: Equipment mount left side035
+    3300170: Equipment mount left side036
+    3300172: Equipment mount left side037
+    3300174: Equipment mount left side07
+    3300176: Exhaust Pipes Armor Left Side001
+    3300178: Exhaust Pipes Armor Right Side001
+    3300180: Fan Cover001
+    3300182: FIre Suppressor Exhausts00
+    3300184: FIre Suppressor Exhausts01
+    3300186: Fire Suppressor mounts00
+    3300188: Fire Suppressor mounts01
+    3300190: Fire Suppressor mounts02
+    3300192: Fire Suppressor mounts03
+    3300194: Hammer
+    3300196: Headlight
+    3300198: Headlight connector001
+    3300200: Headlight Cover
+    3300202: Headlight Hull mount001
+    3300204: Headlight mount
+    3300206: Headlight mount 1
+    3300208: Headlight Rear mount
+    3300210: 'Idler Wheel Left Side '
+    3300212: Idler Wheel Left Side 001
+    3300214: left side front wing
+    3300216: left side front wing001
+    3300218: Left Side Spring Suspension004
+    3300220: Left Side Spring Suspension005
+    3300222: Left Side Spring Suspension006
+    3300224: Left Side Spring Suspension007
+    3300226: Left Side Spring Suspension008
+    3300228: Left Side Spring Suspension009
+    3300230: Left Side Spring Suspension010
+    3300232: Left Side Spring Suspension03
+    3300234: Left Side Sprocket Drum Brakes
+    3300236: Left Side Sprocket Drum Brakes001
+    3300238: Lifting Hooks Engine Deck
+    3300240: Line001
+    3300242: maintenance hatches belly00
+    3300244: maintenance hatches belly01
+    3300246: maintenance hatches belly02
+    3300248: maintenance hatches belly03
+    3300250: maintenance hatches belly04
+    3300252: maintenance hatches belly05
+    3300254: maintenance hatches belly06
+    3300256: maintenance hatches belly07
+    3300258: maintenance hatches belly08
+    3300260: maintenance hatches belly09
+    3300262: maintenance hatches belly10
+    3300264: maintenance hatches belly11
+    3300266: maintenance hatches belly12
+    3300268: maintenance hatches belly13
+    3300270: Object
+    3300272: Object336
+    3300274: Object337
+    3300276: Object338
+    3300278: Object339
+    3300280: Object340
+    3300282: Object341
+    3300284: Object342
+    3300286: Object343
+    3300288: Object344
+    3300290: Object345
+    3300292: Object346
+    3300294: Object347
+    3300296: Object348
+    3300298: Object349
+    3300300: Object350
+    3300302: Object351
+    3300304: Object352
+    3300306: Object353
+    3300308: Object354
+    3300310: Object355
+    3300312: Object356
+    3300314: Object357
+    3300316: Object358
+    3300318: Object359
+    3300320: Object360
+    3300322: Object361
+    3300324: Object362
+    3300326: Object363
+    3300328: Object364
+    3300330: Object365
+    3300332: Object366
+    3300334: Object367
+    3300336: Object368
+    3300338: Object369
+    3300340: Object370
+    3300342: Object371
+    3300344: Object372
+    3300346: Object373
+    3300348: Object374
+    3300350: Object375
+    3300352: Object376
+    3300354: Object377
+    3300356: Object378
+    3300358: Object379
+    3300360: Object380
+    3300362: Object381
+    3300364: Object382
+    3300366: Plane295
+    3300368: Plane297
+    3300370: Plane299
+    3300372: Plane300
+    3300374: Plane301
+    3300376: Plane302
+    3300378: Plane303
+    3300380: Plane304
+    3300382: Plane313
+    3300384: Plane316
+    3300386: Plane317
+    3300388: Plane318
+    3300390: Plane319
+    3300392: Plane320
+    3300394: Plane321
+    3300396: Plane322
+    3300398: Plane323
+    3300400: Plane324
+    3300402: Plane325
+    3300404: Plane326
+    3300406: Plane327
+    3300408: Plane328
+    3300410: Plane329
+    3300412: Plane330
+    3300414: Plane331
+    3300416: Plane332
+    3300418: Plane333
+    3300420: Plane334
+    3300422: Plane335
+    3300424: Plane336
+    3300426: Plane337
+    3300428: Rear Engine Acces Cover00
+    3300430: Rear Engine Acces Cover01
+    3300432: Rear Engine Acces Cover02
+    3300434: Rear Engine Armor 001
+    3300436: Rear Engine Armor 002
+    3300438: Rear Mount
+    3300440: Right Side Drive Sprocket
+    3300442: Right Side Drive Sprocket001
+    3300444: Right Side Turret Tracks002
+    3300446: Right Side Turret Tracks003
+    3300448: Right Side Turret Tracks005
+    3300450: Right Side Turret Tracks006
+    3300452: Right Side Turret Tracks008
+    3300454: Right Side Turret Tracks01
+    3300456: Roadwheels Left 00
+    3300458: Roadwheels Left 012
+    3300460: Roadwheels Left 013
+    3300462: Roadwheels Left 014
+    3300464: Roadwheels Left 015
+    3300466: Roadwheels Left 016
+    3300468: Roadwheels Left 017
+    3300470: Roadwheels Left 018
+    3300472: Roadwheels Left 019
+    3300474: Roadwheels Left 020
+    3300476: Roadwheels Left 021
+    3300478: Roadwheels Left 022
+    3300480: Roadwheels Left 023
+    3300482: Roadwheels Left 024
+    3300484: Roadwheels Left 025
+    3300486: Roadwheels Left 026
+    3300488: Roadwheels Left 027
+    3300490: Roadwheels Left 028
+    3300492: Roadwheels Left 029
+    3300494: Roadwheels Left 030
+    3300496: Roadwheels Left 031
+    3300498: Roadwheels Left 032
+    3300500: Roadwheels Left 033
+    3300502: Roadwheels Left 08
+    3300504: Shovel mounts 02
+    3300506: Shovel mounts 03
+    3300508: Shovel01
+    3300510: Sphere001
+    3300512: Sphere002
+    3300514: Storage Box Rear
+    3300516: Storage Box Rear001
+    3300518: Towing Hooks009
+    3300520: Towing Hooks01
+    3300522: Towing Hooks011
+    3300524: Towing Hooks012
+    3300526: Towing Hooks014
+    3300528: Turret lifting hooks017
+    3300530: Turret lifting hooks018
+    3300532: Turret lifting hooks019
+    3300534: Turret lifting hooks020
+    3300536: Turret lifting hooks021
+    3300538: Turret lifting hooks022
+    3300540: Turret lifting hooks023
+    3300542: Turret lifting hooks024
+    3300544: Turret lifting hooks025
+    3300546: Turret lifting hooks026
+    3300548: Turret lifting hooks027
+    3300550: Turret lifting hooks033
+    3300552: Turret lifting hooks034
+    3300554: Turret mounts005
+    3300556: Turret mounts007
+    3300558: Turret mounts008
+    3300560: Turret mounts009
+    3300562: Turret mounts010
+    3300564: Turret mounts011
+    3300566: Viewport Cover007
+    3300568: Viewport Cover008
+    3300570: Viewport Cover009
+    3300572: Viewport Cover010
+    4300000: Rear Engine Acces Cover00
+    4300002: Rear Engine Acces Cover01
+    4300004: Rear Engine Acces Cover02
+    4300006: Engine Access Doors00
+    4300008: Engine Access Doors01
+    4300010: Cooling Grid Armor00
+    4300012: Hammer
+    4300014: Rear Engine Armor 001
+    4300016: Headlight
+    4300018: Headlight Cover
+    4300020: Headlight Hull mount001
+    4300022: Headlight Rear mount
+    4300024: Headlight connector001
+    4300026: Headlight mount
+    4300028: maintenance hatches belly00
+    4300030: Bolt Cutter001
+    4300032: Cooling Fan Cover02
+    4300034: Cooling Grid Armor01
+    4300036: Cooling Grid Armor02
+    4300038: Cooling Grid Armor03
+    4300040: Engine Access Doors02
+    4300042: Cooling Fan Cover00
+    4300044: Engine Access port
+    4300046: Engine Door Szop
+    4300048: Rear Engine Armor 002
+    4300050: Lifting Hooks Engine Deck
+    4300052: Headlight mount
+    4300054: Axe
+    4300056: Towing Hooks01
+    4300058: Equipment Left Side03
+    4300060: Equipment mount left side07
+    4300062: Equipment mount left side00
+    4300064: Equipment mount left side03
+    4300066: Equipment mount left side01
+    4300068: Shovel01
+    4300070: Shovel mounts 02
+    4300072: Shovel mounts 03
+    4300074: maintenance hatches belly01
+    4300076: maintenance hatches belly02
+    4300078: maintenance hatches belly03
+    4300080: maintenance hatches belly04
+    4300082: maintenance hatches belly05
+    4300084: maintenance hatches belly06
+    4300086: maintenance hatches belly07
+    4300088: maintenance hatches belly13
+    4300090: maintenance hatches belly12
+    4300092: maintenance hatches belly08
+    4300094: maintenance hatches belly09
+    4300096: maintenance hatches belly10
+    4300098: maintenance hatches belly11
+    4300100: Chain Tensioner Cover00
+    4300102: Exhaust Pipes Armor Left Side001
+    4300104: Exhaust Pipes Armor Right Side001
+    4300106: FIre Suppressor Exhausts00
+    4300108: FIre Suppressor Exhausts01
+    4300110: Chain Tensioner Cover01
+    4300112: Storage Box Rear
+    4300114: Rear Mount
+    4300116: Left Side Sprocket Drum Brakes
+    4300118: Fire Suppressor mounts00
+    4300120: Fire Suppressor mounts01
+    4300122: Fire Suppressor mounts03
+    4300124: Fire Suppressor mounts02
+    4300126: left side front wing
+    4300128: Roadwheels Left 00
+    4300130: Left Side Spring Suspension03
+    4300132: Arms07
+    4300134: 'Idler Wheel Left Side '
+    4300136: Roadwheels Left 08
+    4300138: Right Side Drive Sprocket
+    4300140: Right Side Turret Tracks01
+    4300142: Turret mounts005
+    4300144: Engine Deck
+    4300146: Cooling Grid Cover02
+    4300148: Cooling Grid Cover00
+    4300150: Cooling Grid Cover03
+    4300152: Cooling Grid Cover01
+    4300154: Cooling Fan Cover04
+    4300156: Cooling Fan Cover006
+    4300158: Cooling Fan Cover007
+    4300160: Cooling Fan Cover008
+    4300162: Cable clamps01
+    4300164: Plane295
+    4300166: Object
+    4300168: Roadwheels Left 012
+    4300170: Left Side Spring Suspension004
+    4300172: Roadwheels Left 013
+    4300174: Roadwheels Left 014
+    4300176: Roadwheels Left 015
+    4300178: Left Side Spring Suspension005
+    4300180: Roadwheels Left 016
+    4300182: Roadwheels Left 017
+    4300184: Roadwheels Left 018
+    4300186: Left Side Spring Suspension006
+    4300188: Roadwheels Left 019
+    4300190: Roadwheels Left 020
+    4300192: Roadwheels Left 021
+    4300194: 12301
+    4300196: 12318
+    4300198: 12303
+    4300200: 12304
+    4300202: 12305
+    4300204: 12306
+    4300206: 12307
+    4300208: 12319
+    4300210: Storage Box Rear001
+    4300212: Plane297
+    4300214: Box003
+    4300216: left side front wing001
+    4300218: Plane299
+    4300220: 412401
+    4300222: 412402
+    4300224: Cylinder001
+    4300226: Cylinder002
+    4300228: Arms008
+    4300230: Object336
+    4300232: Arms009
+    4300234: Object337
+    4300236: Arms010
+    4300238: Object338
+    4300240: Arms011
+    4300242: Arms012
+    4300244: Arms013
+    4300246: Arms014
+    4300248: Idler Wheel Left Side 001
+    4300250: Left Side Spring Suspension007
+    4300252: Left Side Spring Suspension008
+    4300254: Left Side Spring Suspension009
+    4300256: Left Side Spring Suspension010
+    4300258: Left Side Sprocket Drum Brakes001
+    4300260: Object339
+    4300262: Object340
+    4300264: Object341
+    4300266: Object342
+    4300268: Right Side Drive Sprocket001
+    4300270: Roadwheels Left 022
+    4300272: Roadwheels Left 023
+    4300274: Roadwheels Left 024
+    4300276: Roadwheels Left 025
+    4300278: Roadwheels Left 026
+    4300280: Roadwheels Left 027
+    4300282: Roadwheels Left 028
+    4300284: Roadwheels Left 029
+    4300286: Roadwheels Left 030
+    4300288: Roadwheels Left 031
+    4300290: Roadwheels Left 032
+    4300292: Roadwheels Left 033
+    4300294: 12414
+    4300296: Commanders Hatch002
+    4300298: Commanders Periscope001
+    4300300: Driver/Co Viewports008
+    4300302: Equipment Left Side004
+    4300304: Fan Cover001
+    4300306: Turret lifting hooks017
+    4300308: Turret lifting hooks018
+    4300310: Turret lifting hooks019
+    4300312: Turret mounts007
+    4300314: Turret mounts008
+    4300316: Viewport Cover007
+    4300318: Cylinder004
+    4300320: Cylinder005
+    4300322: Towing Hooks009
+    4300324: Towing Hooks011
+    4300326: Towing Hooks012
+    4300328: Equipment mount left side028
+    4300330: Equipment mount left side029
+    4300332: Right Side Turret Tracks002
+    4300334: Right Side Turret Tracks003
+    4300336: Equipment mount left side030
+    4300338: Equipment mount left side031
+    4300340: Equipment mount left side032
+    4300342: Equipment mount left side033
+    4300344: Equipment mount left side034
+    4300346: Equipment mount left side035
+    4300348: Equipment mount left side036
+    4300350: Equipment mount left side037
+    4300352: Right Side Turret Tracks005
+    4300354: Right Side Turret Tracks006
+    4300356: Right Side Turret Tracks008
+    4300358: Object343
+    4300360: Object344
+    4300362: Object345
+    4300364: Object346
+    4300366: Object347
+    4300368: Object348
+    4300370: Object349
+    4300372: Object350
+    4300374: Object351
+    4300376: Object352
+    4300378: Plane300
+    4300380: Object353
+    4300382: Object354
+    4300384: Object355
+    4300386: Object356
+    4300388: Object357
+    4300390: Object358
+    4300392: Plane301
+    4300394: Object359
+    4300396: Object360
+    4300398: Cylinder006
+    4300400: Cylinder007
+    4300402: Driver/Co Viewports009
+    4300404: Viewport Cover008
+    4300406: Object361
+    4300408: Object362
+    4300410: Object363
+    4300412: Object364
+    4300414: Object365
+    4300416: Object366
+    4300418: Object367
+    4300420: Object368
+    4300422: Sphere001
+    4300424: Sphere002
+    4300426: Turret lifting hooks020
+    4300428: Turret lifting hooks021
+    4300430: Turret lifting hooks022
+    4300432: Turret lifting hooks023
+    4300434: Turret lifting hooks024
+    4300436: Cylinder009
+    4300438: Driver/Co Viewports010
+    4300440: Viewport Cover009
+    4300442: Driver/Co Viewports011
+    4300444: Viewport Cover010
+    4300446: 412404
+    4300448: Turret lifting hooks025
+    4300450: Turret lifting hooks026
+    4300452: Turret lifting hooks027
+    4300454: Turret lifting hooks033
+    4300456: Equipment Left Side010
+    4300458: Line001
+    4300460: Cable clamps002
+    4300462: Cable clamps003
+    4300464: Cable clamps004
+    4300466: Cable clamps005
+    4300468: Cable clamps006
+    4300470: Cable clamps007
+    4300472: Cable clamps008
+    4300474: Cable clamps009
+    4300476: Cylinder010
+    4300478: Turret mounts009
+    4300480: Turret mounts010
+    4300482: Turret mounts011
+    4300484: Plane302
+    4300486: Object369
+    4300488: Object370
+    4300490: Object371
+    4300492: Object372
+    4300494: Object373
+    4300496: Object374
+    4300498: Object375
+    4300500: Object376
+    4300502: Object377
+    4300504: Object378
+    4300506: Object379
+    4300508: Object380
+    4300510: Turret lifting hooks034
+    4300512: Box005
+    4300514: Towing Hooks014
+    4300516: Plane303
+    4300518: Plane304
+    4300520: Box006
+    4300522: Plane313
+    4300524: Plane316
+    4300526: Plane317
+    4300528: Plane318
+    4300530: Plane319
+    4300532: Object381
+    4300534: Plane320
+    4300536: Plane321
+    4300538: Plane322
+    4300540: Plane323
+    4300542: Plane324
+    4300544: Box007
+    4300546: Object382
+    4300548: Plane325
+    4300550: Plane326
+    4300552: Plane327
+    4300554: Plane328
+    4300556: Plane329
+    4300558: Plane330
+    4300560: Plane331
+    4300562: Plane332
+    4300564: Plane333
+    4300566: Plane334
+    4300568: Plane335
+    4300570: Plane336
+    4300572: Plane337
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
