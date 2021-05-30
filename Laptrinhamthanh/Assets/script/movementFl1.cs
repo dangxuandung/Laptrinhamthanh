@@ -5,7 +5,7 @@ using System.Linq;
 using UnityEngine.UI;
 using UnityEngine.Windows.Speech;
 
-public class movement : MonoBehaviour
+public class movementFl1 : MonoBehaviour
 {
     [SerializeField]
     private GameObject one, two, three, four, five, six, seven, eight, up, down;
@@ -96,8 +96,8 @@ public class movement : MonoBehaviour
 
     private void One()
     {
-        str = "Thủy pháo";
-        str2 = "Được gắn trên tàu chiến, bảo vệ vùng biển.";
+        str = "AK-47";
+        str2 = "Khẩu súng huyền thoại, thân thuộc với người lính Việt Nam.";
         SoundManager.instance.Play("Walk");
         isMoving = true;
         target = one.transform.position;
@@ -105,8 +105,9 @@ public class movement : MonoBehaviour
 
     private void Two()
     {
-        str = "Pháo tầm xa";
-        str2 = "Định vị chính xác, tầm bắn rất xa.";
+        str = "Bazooka, Lục côn bỏ túi";
+        str2 = "Súng bắn tank, bắn máy bay địch. " +
+            "\nVũ khí cá nhân, dùng để tự vệ.";
         SoundManager.instance.Play("Walk");
         isMoving = true;
         target = two.transform.position;
@@ -114,8 +115,10 @@ public class movement : MonoBehaviour
 
     private void Three()
     {
-        str = "Đạn thủy pháo";
-        str2 = "Được phóng từ tàu chiến, công phá lớn.";
+        str = "Súng Kíp của dân tộc Dao, Đạn pháo, Lục mạ vàng của tướng địch";
+        str2 = "Người Dao rất giỏi làm, sử dụng súng kíp." +
+            "\nĐạn pháo bắn phương tiện của kẻ địch." +
+            "\nHiện vật của cuộc đột kích và bắt giữ. ";
         SoundManager.instance.Play("Walk");
         isMoving = true;
         target = three.transform.position;
@@ -123,8 +126,8 @@ public class movement : MonoBehaviour
 
     private void Four()
     {
-        str = "Mô hình xe tăng xích";
-        str2 = "Phổ biến trong chiến tranh thế giới thứ 1.";
+        str = "Súng bắn tỉa";
+        str2 = "Được dùng để bảo vệ, tấn công mục tiêu ở xa.";
         SoundManager.instance.Play("Walk");
         isMoving = true;
         target = four.transform.position;
@@ -132,8 +135,8 @@ public class movement : MonoBehaviour
 
     private void Five()
     {
-        str = "Mô hình xe tăng Anh quốc";
-        str2 = "Phổ biến trong chiến tranh thế giới thứ 1.";
+        str = "RPK";
+        str2 = "Súng trung liên, dùng để phòng thủ căn cứ.";
         SoundManager.instance.Play("Walk");
         isMoving = true;
         target = five.transform.position;
@@ -141,8 +144,8 @@ public class movement : MonoBehaviour
 
     private void Six()
     {
-        str = "Súng bắn tank";
-        str2 = "Được quân đội Việt Nam đưa vào sử dụng rất hiệu quả.";
+        str = "Tâm ngắm, Dao , Súng Lục";
+        str2 = "Tâm ngắm được gắn vào súng, tăng độ chính xác.";
         SoundManager.instance.Play("Walk");
         isMoving = true;
         target = six.transform.position;
@@ -150,8 +153,8 @@ public class movement : MonoBehaviour
 
     private void Seven()
     {
-        str = "Bazooka";
-        str2 = "Được lính Mỹ sử dụng nhiều.";
+        str = "Tâm ngắm, Dao găm, súng tiểu liên mp-40";
+        str2 = "Được sản xuất ở Đức, mp-40 nổi tiếng với sự ổn định đáng tin cậy.";
         SoundManager.instance.Play("Walk");
         isMoving = true;
         target = seven.transform.position;
@@ -159,8 +162,8 @@ public class movement : MonoBehaviour
 
     private void Eight()
     {
-        str = "Đầu thủy pháo";
-        str2 = "Được gắn trên tàu chiến, bảo vệ vùng biển.";
+        str = "Súng trường M4";
+        str2 = "Vũ khí phổ thông của lính Mỹ tại Việt Nam.";
         SoundManager.instance.Play("Walk");
         isMoving = true;
         target = eight.transform.position;
