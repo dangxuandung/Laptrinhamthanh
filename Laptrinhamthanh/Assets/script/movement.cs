@@ -21,6 +21,7 @@ public class movement : MonoBehaviour
         "\nMusic stop: tắt nhạc." +
         "\nInfor open: mở bảng thông tin." +
         "\nInfor close: đóng bảng thông tin." +
+        "\nHelp: mở bảng lệnh." +
         "\nExit game: đóng game." +
         "\n\nNói infor close để đóng bảng thông tin này.";
     private float speed = 60;
@@ -214,6 +215,7 @@ public class movement : MonoBehaviour
         "\nMusic stop: tắt nhạc." +
         "\nInfor open: mở bảng thông tin." +
         "\nInfor close: đóng bảng thông tin." +
+        "\nHelp: mở bảng lệnh." +
         "\nExit game: đóng game." +
         "\n\nNói infor close để đóng bảng thông tin này.";
     }
